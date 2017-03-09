@@ -1,4 +1,4 @@
-# D3 JS Demo
+# D3 Demo
 
 ## Dependency
 
